@@ -1,6 +1,6 @@
 # RAW-DAWR
 # RAW Domain High Dynamic Range Imaging with Supervised Motion Compensation and Wavelet Attention Refinement
-### By [Yong Shu](https://github.com/Junze259), [Zihao Zhou](..), [Liquan Shen](..), [Zhaoyi Tian](..), [Xiangyu Hu](..), ###
+### By [Junze Yang](https://github.com/Junze259), [Zihao Zhou](..), [Liquan Shen](..), [Zhaoyi Tian](..), [Xiangyu Hu](..), ###
 
 ## a RAW-domain HDR benchmark dataset reconstruction named RAW Diverse and Auxiliary HDR Dataset (RAW-DAHDR) 
 
