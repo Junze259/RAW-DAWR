@@ -2,7 +2,7 @@
 # RAW Domain High Dynamic Range Imaging with Supervised Motion Compensation and Wavelet Attention Refinement
 ### By [Junze Yang](https://github.com/Junze259), [Zihao Zhou](..), [Liquan Shen](..), [Zhaoyi Tian](..), [Xiangyu Hu](..), ###
 
-## a RAW-domain HDR benchmark dataset reconstruction named RAW Diverse and Auxiliary HDR Dataset (RAW-DAHDR) 
+## The RAW-domain HDR benchmark Dataset named RAW Diverse and Auxiliary HDR Dataset (RAW-DAHDR) 
 
 <p align="left">
     <img src='dataset_samples/sample.png' width="800">
