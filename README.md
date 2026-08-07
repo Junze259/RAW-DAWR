@@ -8,7 +8,7 @@
     <img src='dataset_samples/sample.png' width="800">
 </p>
 ## Download dataset
-We provide the original raw data to facilitate the research on HDR RAW imaging. Since our dataset is collected from RAW domain, the data processing is highly flexible. The researchers can organize the RAW data according to their tasks to generate the desired datasets.
+We provide the original raw data to facilitate the research on HDR RAW imaging. Since our dataset is collected from RAW domain, the data processing is highly flexible. The researchers can organize the RAW data according to their tasks to generate the desired datasets. Each dataset contains one HDR label, two LDR auxiliary labels and three LDR inputs.
 
 ## Download dataset
 Due to the large size of the data, the dataset is hosted on Baidu Netdisk. You can download it using the link below:
